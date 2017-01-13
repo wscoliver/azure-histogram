@@ -1,0 +1,28 @@
+{
+  "name": "azure-histogram",
+  "version": "0.0.1",
+  "description": "A tutorial on how to deploy a histogram to Microsoft Azure Function service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wscoliver/azure-histogram.git"
+  },
+  "keywords": [
+    "azure",
+    "function",
+    "histogram",
+    "azure-function"
+  ],
+  "author": "Oliver Wee",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/wscoliver/azure-histogram/issues"
+  },
+  "homepage": "https://github.com/wscoliver/azure-histogram#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

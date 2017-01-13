@@ -17,7 +17,7 @@ module.exports = function (context, req) {
       }, {})
       res = {
           status: 200,
-          body: { "histogram": histogram }
+          body: { "results": histogram }
       }
     } 
     else {
